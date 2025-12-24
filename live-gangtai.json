@@ -1,0 +1,104 @@
+{
+  "lives": [
+    {
+      "group": "港澳台频道",
+      "channels": [
+        {
+          "name": "凤凰中文",
+          "urls": [
+            "http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8"
+          ]
+        },
+        {
+          "name": "凤凰资讯",
+          "urls": [
+            "http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8"
+          ]
+        },
+        {
+          "name": "凤凰香港",
+          "urls": [
+            "http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8"
+          ]
+        },
+        {
+          "name": "TVB翡翠台",
+          "urls": [
+            "http://pull-l3-cny.douyincdn.com/live/stream-112078A.flv"
+          ]
+        },
+        {
+          "name": "TVB明珠台",
+          "urls": [
+            "http://pull-l3-cny.douyincdn.com/live/stream-112078B.flv"
+          ]
+        },
+        {
+          "name": "香港卫视",
+          "urls": [
+            "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "澳门卫视",
+          "urls": [
+            "http://stream.mastvnet.com/MSTV/SD/live.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "台湾频道",
+      "channels": [
+        {
+          "name": "台视",
+          "urls": [
+            "http://198.16.106.62:8278/twtvhd/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "中视",
+          "urls": [
+            "http://198.16.106.62:8278/zhongshihd/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "华视",
+          "urls": [
+            "http://198.16.106.62:8278/huashihd/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "民视",
+          "urls": [
+            "http://198.16.106.62:8278/minshihd/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "东森新闻",
+          "urls": [
+            "http://198.16.106.62:8278/ettvnews/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "中天新闻",
+          "urls": [
+            "http://198.16.106.62:8278/ctinews/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "TVBS新闻",
+          "urls": [
+            "http://198.16.106.62:8278/tvbs_n/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "三立新闻",
+          "urls": [
+            "http://198.16.106.62:8278/sanlitw/playlist.m3u8"
+          ]
+        }
+      ]
+    }
+  ]
+}
