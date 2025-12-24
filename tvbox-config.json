@@ -1,0 +1,18 @@
+{
+  "spider": "",
+  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+  "sites": [],
+  "lives": [
+    {
+      "name": "常规频道",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/lingyu-lk/iptv/main/live.txt",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
+  "parses": [],
+  "flags": [],
+  "ijk": [],
+  "ads": []
+}
