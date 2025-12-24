@@ -6,12 +6,23 @@
 
 ### 主要直播源
 
+#### TXT 格式（传统格式）
+
 | 文件名 | 说明 | 链接 |
 |--------|------|------|
 | live.txt | 常规频道（央视、卫视、体育、影视、少儿） | [点击查看](https://raw.githubusercontent.com/lingyu-lk/iptv/main/live.txt) |
 | live-4k.txt | 4K/8K超高清频道 | [点击查看](https://raw.githubusercontent.com/lingyu-lk/iptv/main/live-4k.txt) |
 | live-gangtai.txt | 港澳台频道 | [点击查看](https://raw.githubusercontent.com/lingyu-lk/iptv/main/live-gangtai.txt) |
 | live-18plus.txt | 成人频道（18+） | [点击查看](https://raw.githubusercontent.com/lingyu-lk/iptv/main/live-18plus.txt) |
+
+#### JSON 格式（推荐，TVBox 标准格式）
+
+| 文件名 | 说明 | 链接 |
+|--------|------|------|
+| live.json | 常规频道（央视、卫视、体育、影视、少儿） | [点击查看](https://raw.githubusercontent.com/lingyu-lk/iptv/main/live.json) |
+| live-4k.json | 4K/8K超高清频道 | [点击查看](https://raw.githubusercontent.com/lingyu-lk/iptv/main/live-4k.json) |
+| live-gangtai.json | 港澳台频道 | [点击查看](https://raw.githubusercontent.com/lingyu-lk/iptv/main/live-gangtai.json) |
+| live-18plus.json | 成人频道（18+） | [点击查看](https://raw.githubusercontent.com/lingyu-lk/iptv/main/live-18plus.json) |
 
 ## 使用方法
 
